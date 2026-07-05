@@ -1,0 +1,29 @@
+John Smith
+Senior Data Scientist
+Email: john.smith@example.com | Phone: +1-555-123-4567
+LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/johnsmith
+
+SUMMARY
+Passionate, hardworking data scientist with strong analytical skills and a knack for synergy.
+
+EXPERIENCE
+Senior Data Scientist, TechCorp Inc. (2020 - 2023)
+• Worked on machine learning models
+• Helped with data analysis
+• Synergy across teams
+• Used Python and SQL
+
+Data Analyst, StartupXYZ (2018 - 2020)
+• Created dashboards
+• Did reporting
+
+SKILLS
+Python, SQL, Excel, PowerPoint, Communication, Teamwork
+
+EDUCATION
+M.S. Data Science, Stanford University (2016 - 2018)
+B.S. Computer Science, UC Berkeley (2012 - 2016)
+
+PROJECTS
+Movie recommendation engine — basic collaborative filtering
+Sentiment analysis script — classifies tweets

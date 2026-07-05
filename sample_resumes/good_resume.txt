@@ -1,0 +1,36 @@
+Priya Patel
+ML Engineer
+Email: priya.patel@gmail.com | Phone: +91-98765-43210
+LinkedIn: linkedin.com/in/priyapatel | GitHub: github.com/priyapatel
+
+SUMMARY
+ML Engineer with 4 years building production machine learning systems.
+Specialized in deep learning, NLP, and MLOps.
+
+EXPERIENCE
+ML Engineer, Flipkart (2021 - 2024)
+• Built recommendation system using TensorFlow and PyTorch, serving 50M+ users
+• Reduced model inference latency by 40% via Kubernetes deployment
+• Led migration from on-prem to AWS, saving $200k/year in infrastructure costs
+• Architected NLP pipeline processing 1M+ customer reviews daily
+• Mentored 3 junior engineers on deep learning best practices
+
+Junior Data Scientist, Razorpay (2019 - 2021)
+• Developed fraud detection model achieving 95% precision
+• Implemented ETL pipelines using Apache Spark and Airflow
+• Optimized PostgreSQL queries, reducing report generation time by 60%
+
+SKILLS
+Python, PyTorch, TensorFlow, scikit-learn, NLP, Deep Learning,
+Kubernetes, Docker, AWS, Spark, Airflow, PostgreSQL, Redis, FastAPI,
+Git, Linux, CI/CD, MLOps, microservices, REST API
+
+EDUCATION
+B.Tech Computer Science, IIT Bombay (2015 - 2019)
+
+PROJECTS
+• Open-source LLM evaluation framework — 2k GitHub stars
+• RAG-based documentation chatbot — used by 500+ developers internally
+
+CERTIFICATIONS
+AWS Solutions Architect Associate (2023)

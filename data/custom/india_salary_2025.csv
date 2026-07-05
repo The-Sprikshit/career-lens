@@ -1,0 +1,75 @@
+job_title,experience_years,country,company_size,skills_count,salary_usd,salary_inr_lpa
+Software Engineer,0,India,Medium,4,7200,6.0
+Software Engineer,1,India,Medium,6,9600,8.0
+Software Engineer,2,India,Medium,8,13200,11.0
+Software Engineer,3,India,Large,10,16800,14.0
+Software Engineer,5,India,Large,12,21600,18.0
+Software Engineer,7,India,Large,14,28800,24.0
+Software Engineer,10,India,Large,16,36000,30.0
+Data Scientist,0,India,Medium,6,8400,7.0
+Data Scientist,1,India,Medium,8,12000,10.0
+Data Scientist,2,India,Medium,10,16800,14.0
+Data Scientist,3,India,Large,12,21600,18.0
+Data Scientist,5,India,Large,14,30000,25.0
+Data Scientist,7,India,Large,16,40800,34.0
+Data Scientist,10,India,Large,18,54000,45.0
+ML Engineer,0,India,Medium,7,9600,8.0
+ML Engineer,1,India,Medium,9,14400,12.0
+ML Engineer,2,India,Large,11,19200,16.0
+ML Engineer,3,India,Large,13,26400,22.0
+ML Engineer,5,India,Large,15,36000,30.0
+ML Engineer,7,India,Large,17,48000,40.0
+ML Engineer,10,India,Large,19,66000,55.0
+Backend Developer,0,India,Small,4,7200,6.0
+Backend Developer,1,India,Medium,6,10800,9.0
+Backend Developer,2,India,Medium,8,14400,12.0
+Backend Developer,3,India,Large,10,18000,15.0
+Backend Developer,5,India,Large,12,24000,20.0
+Backend Developer,7,India,Large,14,33600,28.0
+Backend Developer,10,India,Large,16,45600,38.0
+Frontend Developer,0,India,Small,4,6000,5.0
+Frontend Developer,1,India,Medium,6,9600,8.0
+Frontend Developer,2,India,Medium,8,13200,11.0
+Frontend Developer,3,India,Large,10,16800,14.0
+Frontend Developer,5,India,Large,12,22800,19.0
+Frontend Developer,7,India,Large,14,31200,26.0
+Full Stack Developer,0,India,Small,6,7200,6.0
+Full Stack Developer,1,India,Medium,8,12000,10.0
+Full Stack Developer,2,India,Medium,10,15600,13.0
+Full Stack Developer,3,India,Large,12,21600,18.0
+Full Stack Developer,5,India,Large,14,28800,24.0
+Full Stack Developer,7,India,Large,16,40800,34.0
+DevOps Engineer,0,India,Medium,6,8400,7.0
+DevOps Engineer,1,India,Medium,8,12000,10.0
+DevOps Engineer,2,India,Large,10,16800,14.0
+DevOps Engineer,3,India,Large,12,22800,19.0
+DevOps Engineer,5,India,Large,14,30000,25.0
+DevOps Engineer,7,India,Large,16,42000,35.0
+Data Analyst,0,India,Small,5,6000,5.0
+Data Analyst,1,India,Medium,7,8400,7.0
+Data Analyst,2,India,Medium,9,12000,10.0
+Data Analyst,3,India,Large,11,15600,13.0
+Data Analyst,5,India,Large,13,21600,18.0
+Data Analyst,7,India,Large,15,30000,25.0
+Product Manager,3,India,Medium,8,18000,15.0
+Product Manager,5,India,Large,10,28800,24.0
+Product Manager,7,India,Large,12,42000,35.0
+Product Manager,10,India,Large,14,60000,50.0
+Cloud Architect,5,India,Large,14,42000,35.0
+Cloud Architect,7,India,Large,16,60000,50.0
+Cloud Architect,10,India,Large,18,84000,70.0
+Software Engineer,3,USA,Large,12,145000,120.35
+Software Engineer,5,USA,Large,14,175000,145.25
+Data Scientist,3,USA,Large,12,155000,128.65
+Data Scientist,5,USA,Large,14,195000,161.85
+ML Engineer,3,USA,Large,13,165000,136.95
+ML Engineer,5,USA,Large,15,210000,174.30
+Software Engineer,3,UK,Large,12,90000,74.70
+Software Engineer,5,UK,Large,14,115000,95.45
+Data Scientist,3,UK,Large,12,100000,83.00
+Software Engineer,3,Germany,Large,12,85000,70.55
+Software Engineer,5,Germany,Large,14,105000,87.15
+Software Engineer,3,Canada,Large,12,95000,78.85
+Software Engineer,5,Canada,Large,14,120000,99.60
+Software Engineer,3,Singapore,Large,12,100000,83.00
+Software Engineer,5,Singapore,Large,14,130000,107.90
